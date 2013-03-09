@@ -8,7 +8,8 @@ Installation is quick and easy, 3 steps process
 
 1. Install GenemuFormBundle
 2. Enable the bundle
-3. Initialize assets
+3. Choose form types you want
+4. Initialize assets
 
 ### Step 1: Install GenemuFormBundle
 
